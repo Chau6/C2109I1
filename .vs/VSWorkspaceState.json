@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CSharp",
+    "\\CSharp\\GitHub"
   ],
-  "SelectedNode": "\\D:\\Chau_folder\\C#\\Git",
+  "SelectedNode": "\\CSharp\\GitHub\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
