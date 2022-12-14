@@ -8,7 +8,7 @@ namespace RefOut;
 internal class UseRefOut
 {
     //expression body: khi 1 phương thức chỉ có 1 câu lệnh duy nhất
-    public void ShowInfo() => Console.WriteLine("Thông tin về class này");
+    public static void ShowInfo() => Console.WriteLine("Thông tin về class này");
     public static void ChangeNumber(out int a, out int b)
     {
         a = 10;

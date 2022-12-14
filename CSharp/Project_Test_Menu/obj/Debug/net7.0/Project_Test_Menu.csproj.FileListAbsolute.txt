@@ -1,0 +1,15 @@
+D:\Chau_folder\C#\Git\CSharp\Project_Test_Menu\bin\Debug\net7.0\Project_Test_Menu.exe
+D:\Chau_folder\C#\Git\CSharp\Project_Test_Menu\bin\Debug\net7.0\Project_Test_Menu.deps.json
+D:\Chau_folder\C#\Git\CSharp\Project_Test_Menu\bin\Debug\net7.0\Project_Test_Menu.runtimeconfig.json
+D:\Chau_folder\C#\Git\CSharp\Project_Test_Menu\bin\Debug\net7.0\Project_Test_Menu.dll
+D:\Chau_folder\C#\Git\CSharp\Project_Test_Menu\bin\Debug\net7.0\Project_Test_Menu.pdb
+D:\Chau_folder\C#\Git\CSharp\Project_Test_Menu\obj\Debug\net7.0\Project_Test_Menu.csproj.AssemblyReference.cache
+D:\Chau_folder\C#\Git\CSharp\Project_Test_Menu\obj\Debug\net7.0\Project_Test_Menu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chau_folder\C#\Git\CSharp\Project_Test_Menu\obj\Debug\net7.0\Project_Test_Menu.AssemblyInfoInputs.cache
+D:\Chau_folder\C#\Git\CSharp\Project_Test_Menu\obj\Debug\net7.0\Project_Test_Menu.AssemblyInfo.cs
+D:\Chau_folder\C#\Git\CSharp\Project_Test_Menu\obj\Debug\net7.0\Project_Test_Menu.csproj.CoreCompileInputs.cache
+D:\Chau_folder\C#\Git\CSharp\Project_Test_Menu\obj\Debug\net7.0\Project_Test_Menu.dll
+D:\Chau_folder\C#\Git\CSharp\Project_Test_Menu\obj\Debug\net7.0\refint\Project_Test_Menu.dll
+D:\Chau_folder\C#\Git\CSharp\Project_Test_Menu\obj\Debug\net7.0\Project_Test_Menu.pdb
+D:\Chau_folder\C#\Git\CSharp\Project_Test_Menu\obj\Debug\net7.0\Project_Test_Menu.genruntimeconfig.cache
+D:\Chau_folder\C#\Git\CSharp\Project_Test_Menu\obj\Debug\net7.0\ref\Project_Test_Menu.dll
