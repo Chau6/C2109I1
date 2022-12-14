@@ -1,0 +1,15 @@
+D:\Chau_folder\C#\Git\CSharp\SwitchCase\bin\Debug\net7.0\SwitchCase.exe
+D:\Chau_folder\C#\Git\CSharp\SwitchCase\bin\Debug\net7.0\SwitchCase.deps.json
+D:\Chau_folder\C#\Git\CSharp\SwitchCase\bin\Debug\net7.0\SwitchCase.runtimeconfig.json
+D:\Chau_folder\C#\Git\CSharp\SwitchCase\bin\Debug\net7.0\SwitchCase.dll
+D:\Chau_folder\C#\Git\CSharp\SwitchCase\bin\Debug\net7.0\SwitchCase.pdb
+D:\Chau_folder\C#\Git\CSharp\SwitchCase\obj\Debug\net7.0\SwitchCase.csproj.AssemblyReference.cache
+D:\Chau_folder\C#\Git\CSharp\SwitchCase\obj\Debug\net7.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chau_folder\C#\Git\CSharp\SwitchCase\obj\Debug\net7.0\SwitchCase.AssemblyInfoInputs.cache
+D:\Chau_folder\C#\Git\CSharp\SwitchCase\obj\Debug\net7.0\SwitchCase.AssemblyInfo.cs
+D:\Chau_folder\C#\Git\CSharp\SwitchCase\obj\Debug\net7.0\SwitchCase.csproj.CoreCompileInputs.cache
+D:\Chau_folder\C#\Git\CSharp\SwitchCase\obj\Debug\net7.0\SwitchCase.dll
+D:\Chau_folder\C#\Git\CSharp\SwitchCase\obj\Debug\net7.0\refint\SwitchCase.dll
+D:\Chau_folder\C#\Git\CSharp\SwitchCase\obj\Debug\net7.0\SwitchCase.pdb
+D:\Chau_folder\C#\Git\CSharp\SwitchCase\obj\Debug\net7.0\SwitchCase.genruntimeconfig.cache
+D:\Chau_folder\C#\Git\CSharp\SwitchCase\obj\Debug\net7.0\ref\SwitchCase.dll

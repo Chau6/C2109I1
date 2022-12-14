@@ -1,0 +1,15 @@
+D:\Chau_folder\C#\Git\CSharp\ForEachAndWhile\bin\Debug\net7.0\ForEachAndWhile.exe
+D:\Chau_folder\C#\Git\CSharp\ForEachAndWhile\bin\Debug\net7.0\ForEachAndWhile.deps.json
+D:\Chau_folder\C#\Git\CSharp\ForEachAndWhile\bin\Debug\net7.0\ForEachAndWhile.runtimeconfig.json
+D:\Chau_folder\C#\Git\CSharp\ForEachAndWhile\bin\Debug\net7.0\ForEachAndWhile.dll
+D:\Chau_folder\C#\Git\CSharp\ForEachAndWhile\bin\Debug\net7.0\ForEachAndWhile.pdb
+D:\Chau_folder\C#\Git\CSharp\ForEachAndWhile\obj\Debug\net7.0\ForEachAndWhile.csproj.AssemblyReference.cache
+D:\Chau_folder\C#\Git\CSharp\ForEachAndWhile\obj\Debug\net7.0\ForEachAndWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chau_folder\C#\Git\CSharp\ForEachAndWhile\obj\Debug\net7.0\ForEachAndWhile.AssemblyInfoInputs.cache
+D:\Chau_folder\C#\Git\CSharp\ForEachAndWhile\obj\Debug\net7.0\ForEachAndWhile.AssemblyInfo.cs
+D:\Chau_folder\C#\Git\CSharp\ForEachAndWhile\obj\Debug\net7.0\ForEachAndWhile.csproj.CoreCompileInputs.cache
+D:\Chau_folder\C#\Git\CSharp\ForEachAndWhile\obj\Debug\net7.0\ForEachAndWhile.dll
+D:\Chau_folder\C#\Git\CSharp\ForEachAndWhile\obj\Debug\net7.0\refint\ForEachAndWhile.dll
+D:\Chau_folder\C#\Git\CSharp\ForEachAndWhile\obj\Debug\net7.0\ForEachAndWhile.pdb
+D:\Chau_folder\C#\Git\CSharp\ForEachAndWhile\obj\Debug\net7.0\ForEachAndWhile.genruntimeconfig.cache
+D:\Chau_folder\C#\Git\CSharp\ForEachAndWhile\obj\Debug\net7.0\ref\ForEachAndWhile.dll

@@ -1,0 +1,15 @@
+D:\Chau_folder\C#\Git\CSharp\RefOut\bin\Debug\net7.0\RefOut.exe
+D:\Chau_folder\C#\Git\CSharp\RefOut\bin\Debug\net7.0\RefOut.deps.json
+D:\Chau_folder\C#\Git\CSharp\RefOut\bin\Debug\net7.0\RefOut.runtimeconfig.json
+D:\Chau_folder\C#\Git\CSharp\RefOut\bin\Debug\net7.0\RefOut.dll
+D:\Chau_folder\C#\Git\CSharp\RefOut\bin\Debug\net7.0\RefOut.pdb
+D:\Chau_folder\C#\Git\CSharp\RefOut\obj\Debug\net7.0\RefOut.csproj.AssemblyReference.cache
+D:\Chau_folder\C#\Git\CSharp\RefOut\obj\Debug\net7.0\RefOut.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chau_folder\C#\Git\CSharp\RefOut\obj\Debug\net7.0\RefOut.AssemblyInfoInputs.cache
+D:\Chau_folder\C#\Git\CSharp\RefOut\obj\Debug\net7.0\RefOut.AssemblyInfo.cs
+D:\Chau_folder\C#\Git\CSharp\RefOut\obj\Debug\net7.0\RefOut.csproj.CoreCompileInputs.cache
+D:\Chau_folder\C#\Git\CSharp\RefOut\obj\Debug\net7.0\RefOut.dll
+D:\Chau_folder\C#\Git\CSharp\RefOut\obj\Debug\net7.0\refint\RefOut.dll
+D:\Chau_folder\C#\Git\CSharp\RefOut\obj\Debug\net7.0\RefOut.pdb
+D:\Chau_folder\C#\Git\CSharp\RefOut\obj\Debug\net7.0\RefOut.genruntimeconfig.cache
+D:\Chau_folder\C#\Git\CSharp\RefOut\obj\Debug\net7.0\ref\RefOut.dll
