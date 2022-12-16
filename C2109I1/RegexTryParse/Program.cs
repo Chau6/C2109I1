@@ -5,9 +5,11 @@ using System.Text.RegularExpressions;
 
 Console.InputEncoding = Encoding.Unicode;
 Console.OutputEncoding = Encoding.Unicode;
+
+#region 
 string? str = null;
-//Console.WriteLine("Vui lòng nhập số: ");
-//str = Console.ReadLine();
+Console.WriteLine("Vui lòng nhập số: ");
+str = Console.ReadLine();
 
 var formula = new Regex("^[0-9]+$");
 
@@ -40,12 +42,17 @@ if(amount is not null)
 {
     //do something
 }
+#endregion
 
 try
 {
     int total = int.Parse(amount);
     if (total <= 0) throw new Exception("Phải lớn hơn 0");
     Console.WriteLine($"{nameof(total)} = {total}");
+}
+catch(Exception) when (amount.Contains("$")) //có thể sài regex 
+{
+    Console.WriteLine("Chuỗi k được có dấu $");
 }
 catch(Exception e)
 {

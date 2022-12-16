@@ -1,0 +1,15 @@
+D:\Chau_folder\C#\Git\C2109I1\ParitalClass\bin\Debug\net7.0\ParitalClass.exe
+D:\Chau_folder\C#\Git\C2109I1\ParitalClass\bin\Debug\net7.0\ParitalClass.deps.json
+D:\Chau_folder\C#\Git\C2109I1\ParitalClass\bin\Debug\net7.0\ParitalClass.runtimeconfig.json
+D:\Chau_folder\C#\Git\C2109I1\ParitalClass\bin\Debug\net7.0\ParitalClass.dll
+D:\Chau_folder\C#\Git\C2109I1\ParitalClass\bin\Debug\net7.0\ParitalClass.pdb
+D:\Chau_folder\C#\Git\C2109I1\ParitalClass\obj\Debug\net7.0\ParitalClass.csproj.AssemblyReference.cache
+D:\Chau_folder\C#\Git\C2109I1\ParitalClass\obj\Debug\net7.0\ParitalClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chau_folder\C#\Git\C2109I1\ParitalClass\obj\Debug\net7.0\ParitalClass.AssemblyInfoInputs.cache
+D:\Chau_folder\C#\Git\C2109I1\ParitalClass\obj\Debug\net7.0\ParitalClass.AssemblyInfo.cs
+D:\Chau_folder\C#\Git\C2109I1\ParitalClass\obj\Debug\net7.0\ParitalClass.csproj.CoreCompileInputs.cache
+D:\Chau_folder\C#\Git\C2109I1\ParitalClass\obj\Debug\net7.0\ParitalClass.dll
+D:\Chau_folder\C#\Git\C2109I1\ParitalClass\obj\Debug\net7.0\refint\ParitalClass.dll
+D:\Chau_folder\C#\Git\C2109I1\ParitalClass\obj\Debug\net7.0\ParitalClass.pdb
+D:\Chau_folder\C#\Git\C2109I1\ParitalClass\obj\Debug\net7.0\ParitalClass.genruntimeconfig.cache
+D:\Chau_folder\C#\Git\C2109I1\ParitalClass\obj\Debug\net7.0\ref\ParitalClass.dll
