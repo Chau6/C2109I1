@@ -1,0 +1,15 @@
+D:\Chau_folder\C#\Git\C2109I1\RegexTryParse\bin\Debug\net7.0\RegexTryParse.exe
+D:\Chau_folder\C#\Git\C2109I1\RegexTryParse\bin\Debug\net7.0\RegexTryParse.deps.json
+D:\Chau_folder\C#\Git\C2109I1\RegexTryParse\bin\Debug\net7.0\RegexTryParse.runtimeconfig.json
+D:\Chau_folder\C#\Git\C2109I1\RegexTryParse\bin\Debug\net7.0\RegexTryParse.dll
+D:\Chau_folder\C#\Git\C2109I1\RegexTryParse\bin\Debug\net7.0\RegexTryParse.pdb
+D:\Chau_folder\C#\Git\C2109I1\RegexTryParse\obj\Debug\net7.0\RegexTryParse.csproj.AssemblyReference.cache
+D:\Chau_folder\C#\Git\C2109I1\RegexTryParse\obj\Debug\net7.0\RegexTryParse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chau_folder\C#\Git\C2109I1\RegexTryParse\obj\Debug\net7.0\RegexTryParse.AssemblyInfoInputs.cache
+D:\Chau_folder\C#\Git\C2109I1\RegexTryParse\obj\Debug\net7.0\RegexTryParse.AssemblyInfo.cs
+D:\Chau_folder\C#\Git\C2109I1\RegexTryParse\obj\Debug\net7.0\RegexTryParse.csproj.CoreCompileInputs.cache
+D:\Chau_folder\C#\Git\C2109I1\RegexTryParse\obj\Debug\net7.0\RegexTryParse.dll
+D:\Chau_folder\C#\Git\C2109I1\RegexTryParse\obj\Debug\net7.0\refint\RegexTryParse.dll
+D:\Chau_folder\C#\Git\C2109I1\RegexTryParse\obj\Debug\net7.0\RegexTryParse.pdb
+D:\Chau_folder\C#\Git\C2109I1\RegexTryParse\obj\Debug\net7.0\RegexTryParse.genruntimeconfig.cache
+D:\Chau_folder\C#\Git\C2109I1\RegexTryParse\obj\Debug\net7.0\ref\RegexTryParse.dll
