@@ -15,7 +15,7 @@ while (a)
     b = Convert.ToInt32(Console.ReadLine()); // you cannot implicitly convert type 'string' to 'int' => must convert
     Console.WriteLine(b switch
     {
-        1 => number1 + number2,
+        1 => $"Hello {number1 + number2}",
         2 => number1 - number2,
         3 => number1 * number2,
         4 => number1 / number2,
