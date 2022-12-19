@@ -1,0 +1,15 @@
+D:\Chau_folder\C#\Git\C2109I1\OopPolymorphismInteface\obj\Debug\net7.0\OopPolymorphismInteface.csproj.AssemblyReference.cache
+D:\Chau_folder\C#\Git\C2109I1\OopPolymorphismInteface\obj\Debug\net7.0\OopPolymorphismInteface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chau_folder\C#\Git\C2109I1\OopPolymorphismInteface\obj\Debug\net7.0\OopPolymorphismInteface.AssemblyInfoInputs.cache
+D:\Chau_folder\C#\Git\C2109I1\OopPolymorphismInteface\obj\Debug\net7.0\OopPolymorphismInteface.AssemblyInfo.cs
+D:\Chau_folder\C#\Git\C2109I1\OopPolymorphismInteface\obj\Debug\net7.0\OopPolymorphismInteface.csproj.CoreCompileInputs.cache
+D:\Chau_folder\C#\Git\C2109I1\OopPolymorphismInteface\bin\Debug\net7.0\OopPolymorphismInteface.exe
+D:\Chau_folder\C#\Git\C2109I1\OopPolymorphismInteface\bin\Debug\net7.0\OopPolymorphismInteface.deps.json
+D:\Chau_folder\C#\Git\C2109I1\OopPolymorphismInteface\bin\Debug\net7.0\OopPolymorphismInteface.runtimeconfig.json
+D:\Chau_folder\C#\Git\C2109I1\OopPolymorphismInteface\bin\Debug\net7.0\OopPolymorphismInteface.dll
+D:\Chau_folder\C#\Git\C2109I1\OopPolymorphismInteface\bin\Debug\net7.0\OopPolymorphismInteface.pdb
+D:\Chau_folder\C#\Git\C2109I1\OopPolymorphismInteface\obj\Debug\net7.0\OopPolymorphismInteface.dll
+D:\Chau_folder\C#\Git\C2109I1\OopPolymorphismInteface\obj\Debug\net7.0\refint\OopPolymorphismInteface.dll
+D:\Chau_folder\C#\Git\C2109I1\OopPolymorphismInteface\obj\Debug\net7.0\OopPolymorphismInteface.pdb
+D:\Chau_folder\C#\Git\C2109I1\OopPolymorphismInteface\obj\Debug\net7.0\OopPolymorphismInteface.genruntimeconfig.cache
+D:\Chau_folder\C#\Git\C2109I1\OopPolymorphismInteface\obj\Debug\net7.0\ref\OopPolymorphismInteface.dll
