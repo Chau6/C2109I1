@@ -1,0 +1,15 @@
+D:\Chau_folder\C#\Git\C2109I1\OopPolymorphismOverride\obj\Debug\net7.0\OopPolymorphismOverride.csproj.AssemblyReference.cache
+D:\Chau_folder\C#\Git\C2109I1\OopPolymorphismOverride\obj\Debug\net7.0\OopPolymorphismOverride.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chau_folder\C#\Git\C2109I1\OopPolymorphismOverride\obj\Debug\net7.0\OopPolymorphismOverride.AssemblyInfoInputs.cache
+D:\Chau_folder\C#\Git\C2109I1\OopPolymorphismOverride\obj\Debug\net7.0\OopPolymorphismOverride.AssemblyInfo.cs
+D:\Chau_folder\C#\Git\C2109I1\OopPolymorphismOverride\obj\Debug\net7.0\OopPolymorphismOverride.csproj.CoreCompileInputs.cache
+D:\Chau_folder\C#\Git\C2109I1\OopPolymorphismOverride\bin\Debug\net7.0\OopPolymorphismOverride.exe
+D:\Chau_folder\C#\Git\C2109I1\OopPolymorphismOverride\bin\Debug\net7.0\OopPolymorphismOverride.deps.json
+D:\Chau_folder\C#\Git\C2109I1\OopPolymorphismOverride\bin\Debug\net7.0\OopPolymorphismOverride.runtimeconfig.json
+D:\Chau_folder\C#\Git\C2109I1\OopPolymorphismOverride\bin\Debug\net7.0\OopPolymorphismOverride.dll
+D:\Chau_folder\C#\Git\C2109I1\OopPolymorphismOverride\bin\Debug\net7.0\OopPolymorphismOverride.pdb
+D:\Chau_folder\C#\Git\C2109I1\OopPolymorphismOverride\obj\Debug\net7.0\OopPolymorphismOverride.dll
+D:\Chau_folder\C#\Git\C2109I1\OopPolymorphismOverride\obj\Debug\net7.0\refint\OopPolymorphismOverride.dll
+D:\Chau_folder\C#\Git\C2109I1\OopPolymorphismOverride\obj\Debug\net7.0\OopPolymorphismOverride.pdb
+D:\Chau_folder\C#\Git\C2109I1\OopPolymorphismOverride\obj\Debug\net7.0\OopPolymorphismOverride.genruntimeconfig.cache
+D:\Chau_folder\C#\Git\C2109I1\OopPolymorphismOverride\obj\Debug\net7.0\ref\OopPolymorphismOverride.dll

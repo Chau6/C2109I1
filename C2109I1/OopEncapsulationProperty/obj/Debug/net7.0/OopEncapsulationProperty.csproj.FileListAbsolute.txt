@@ -1,0 +1,15 @@
+D:\Chau_folder\C#\Git\C2109I1\OopEncapsulationProperty\bin\Debug\net7.0\OopEncapsulationProperty.exe
+D:\Chau_folder\C#\Git\C2109I1\OopEncapsulationProperty\bin\Debug\net7.0\OopEncapsulationProperty.deps.json
+D:\Chau_folder\C#\Git\C2109I1\OopEncapsulationProperty\bin\Debug\net7.0\OopEncapsulationProperty.runtimeconfig.json
+D:\Chau_folder\C#\Git\C2109I1\OopEncapsulationProperty\bin\Debug\net7.0\OopEncapsulationProperty.dll
+D:\Chau_folder\C#\Git\C2109I1\OopEncapsulationProperty\bin\Debug\net7.0\OopEncapsulationProperty.pdb
+D:\Chau_folder\C#\Git\C2109I1\OopEncapsulationProperty\obj\Debug\net7.0\OopEncapsulationProperty.csproj.AssemblyReference.cache
+D:\Chau_folder\C#\Git\C2109I1\OopEncapsulationProperty\obj\Debug\net7.0\OopEncapsulationProperty.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chau_folder\C#\Git\C2109I1\OopEncapsulationProperty\obj\Debug\net7.0\OopEncapsulationProperty.AssemblyInfoInputs.cache
+D:\Chau_folder\C#\Git\C2109I1\OopEncapsulationProperty\obj\Debug\net7.0\OopEncapsulationProperty.AssemblyInfo.cs
+D:\Chau_folder\C#\Git\C2109I1\OopEncapsulationProperty\obj\Debug\net7.0\OopEncapsulationProperty.csproj.CoreCompileInputs.cache
+D:\Chau_folder\C#\Git\C2109I1\OopEncapsulationProperty\obj\Debug\net7.0\OopEncapsulationProperty.dll
+D:\Chau_folder\C#\Git\C2109I1\OopEncapsulationProperty\obj\Debug\net7.0\refint\OopEncapsulationProperty.dll
+D:\Chau_folder\C#\Git\C2109I1\OopEncapsulationProperty\obj\Debug\net7.0\OopEncapsulationProperty.pdb
+D:\Chau_folder\C#\Git\C2109I1\OopEncapsulationProperty\obj\Debug\net7.0\OopEncapsulationProperty.genruntimeconfig.cache
+D:\Chau_folder\C#\Git\C2109I1\OopEncapsulationProperty\obj\Debug\net7.0\ref\OopEncapsulationProperty.dll
