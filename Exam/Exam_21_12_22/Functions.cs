@@ -3,8 +3,8 @@
 namespace Exam_21_12_22;
 internal class Functions:Student
 {
-    //List<Student> list = new List<Student>();
     public static List<Student> list = new List<Student>();
+    //public List<Student> list { get; set; };
 
     public static void AddStd(int a, string b, bool c, DateOnly d)
     {

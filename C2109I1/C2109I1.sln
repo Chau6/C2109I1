@@ -27,9 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtentionMethod", "Extentio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListAndLINQ", "ListAndLINQ\ListAndLINQ.csproj", "{21E53EAE-2791-4004-A7C5-95F23360DFF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericClass", "GenericClass\GenericClass.csproj", "{C3F706E8-D76D-4B72-A8D8-896A56A86F50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericClass", "GenericClass\GenericClass.csproj", "{C3F706E8-D76D-4B72-A8D8-896A56A86F50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delegate.csproj", "{E2A6741E-3EC4-42C8-A002-C2BC99D8FE65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegate", "Delegate\Delegate.csproj", "{E2A6741E-3EC4-42C8-A002-C2BC99D8FE65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExeciseOop", "ExeciseOop\ExeciseOop.csproj", "{438A905B-3E8A-4D1D-9732-73F5B4A189B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{E2A6741E-3EC4-42C8-A002-C2BC99D8FE65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2A6741E-3EC4-42C8-A002-C2BC99D8FE65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2A6741E-3EC4-42C8-A002-C2BC99D8FE65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{438A905B-3E8A-4D1D-9732-73F5B4A189B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438A905B-3E8A-4D1D-9732-73F5B4A189B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438A905B-3E8A-4D1D-9732-73F5B4A189B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438A905B-3E8A-4D1D-9732-73F5B4A189B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

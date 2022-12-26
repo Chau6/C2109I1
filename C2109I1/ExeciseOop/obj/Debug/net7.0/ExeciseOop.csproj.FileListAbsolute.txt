@@ -1,0 +1,15 @@
+D:\Chau_folder\C#\Git\C2109I1\ExeciseOop\bin\Debug\net7.0\ExeciseOop.exe
+D:\Chau_folder\C#\Git\C2109I1\ExeciseOop\bin\Debug\net7.0\ExeciseOop.deps.json
+D:\Chau_folder\C#\Git\C2109I1\ExeciseOop\bin\Debug\net7.0\ExeciseOop.runtimeconfig.json
+D:\Chau_folder\C#\Git\C2109I1\ExeciseOop\bin\Debug\net7.0\ExeciseOop.dll
+D:\Chau_folder\C#\Git\C2109I1\ExeciseOop\bin\Debug\net7.0\ExeciseOop.pdb
+D:\Chau_folder\C#\Git\C2109I1\ExeciseOop\obj\Debug\net7.0\ExeciseOop.csproj.AssemblyReference.cache
+D:\Chau_folder\C#\Git\C2109I1\ExeciseOop\obj\Debug\net7.0\ExeciseOop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chau_folder\C#\Git\C2109I1\ExeciseOop\obj\Debug\net7.0\ExeciseOop.AssemblyInfoInputs.cache
+D:\Chau_folder\C#\Git\C2109I1\ExeciseOop\obj\Debug\net7.0\ExeciseOop.AssemblyInfo.cs
+D:\Chau_folder\C#\Git\C2109I1\ExeciseOop\obj\Debug\net7.0\ExeciseOop.csproj.CoreCompileInputs.cache
+D:\Chau_folder\C#\Git\C2109I1\ExeciseOop\obj\Debug\net7.0\ExeciseOop.dll
+D:\Chau_folder\C#\Git\C2109I1\ExeciseOop\obj\Debug\net7.0\refint\ExeciseOop.dll
+D:\Chau_folder\C#\Git\C2109I1\ExeciseOop\obj\Debug\net7.0\ExeciseOop.pdb
+D:\Chau_folder\C#\Git\C2109I1\ExeciseOop\obj\Debug\net7.0\ExeciseOop.genruntimeconfig.cache
+D:\Chau_folder\C#\Git\C2109I1\ExeciseOop\obj\Debug\net7.0\ref\ExeciseOop.dll
