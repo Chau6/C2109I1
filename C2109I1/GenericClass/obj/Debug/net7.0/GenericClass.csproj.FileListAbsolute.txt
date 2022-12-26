@@ -1,0 +1,15 @@
+D:\Chau_folder\C#\Git\C2109I1\GenericClass\bin\Debug\net7.0\GenericClass.exe
+D:\Chau_folder\C#\Git\C2109I1\GenericClass\bin\Debug\net7.0\GenericClass.deps.json
+D:\Chau_folder\C#\Git\C2109I1\GenericClass\bin\Debug\net7.0\GenericClass.runtimeconfig.json
+D:\Chau_folder\C#\Git\C2109I1\GenericClass\bin\Debug\net7.0\GenericClass.dll
+D:\Chau_folder\C#\Git\C2109I1\GenericClass\bin\Debug\net7.0\GenericClass.pdb
+D:\Chau_folder\C#\Git\C2109I1\GenericClass\obj\Debug\net7.0\GenericClass.csproj.AssemblyReference.cache
+D:\Chau_folder\C#\Git\C2109I1\GenericClass\obj\Debug\net7.0\GenericClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chau_folder\C#\Git\C2109I1\GenericClass\obj\Debug\net7.0\GenericClass.AssemblyInfoInputs.cache
+D:\Chau_folder\C#\Git\C2109I1\GenericClass\obj\Debug\net7.0\GenericClass.AssemblyInfo.cs
+D:\Chau_folder\C#\Git\C2109I1\GenericClass\obj\Debug\net7.0\GenericClass.csproj.CoreCompileInputs.cache
+D:\Chau_folder\C#\Git\C2109I1\GenericClass\obj\Debug\net7.0\GenericClass.dll
+D:\Chau_folder\C#\Git\C2109I1\GenericClass\obj\Debug\net7.0\refint\GenericClass.dll
+D:\Chau_folder\C#\Git\C2109I1\GenericClass\obj\Debug\net7.0\GenericClass.pdb
+D:\Chau_folder\C#\Git\C2109I1\GenericClass\obj\Debug\net7.0\GenericClass.genruntimeconfig.cache
+D:\Chau_folder\C#\Git\C2109I1\GenericClass\obj\Debug\net7.0\ref\GenericClass.dll

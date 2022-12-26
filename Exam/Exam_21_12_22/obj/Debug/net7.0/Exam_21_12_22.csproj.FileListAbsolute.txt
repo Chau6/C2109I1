@@ -1,0 +1,15 @@
+D:\Chau_folder\C#\Git\Exam\Exam_21_12_22\bin\Debug\net7.0\Exam_21_12_22.exe
+D:\Chau_folder\C#\Git\Exam\Exam_21_12_22\bin\Debug\net7.0\Exam_21_12_22.deps.json
+D:\Chau_folder\C#\Git\Exam\Exam_21_12_22\bin\Debug\net7.0\Exam_21_12_22.runtimeconfig.json
+D:\Chau_folder\C#\Git\Exam\Exam_21_12_22\bin\Debug\net7.0\Exam_21_12_22.dll
+D:\Chau_folder\C#\Git\Exam\Exam_21_12_22\bin\Debug\net7.0\Exam_21_12_22.pdb
+D:\Chau_folder\C#\Git\Exam\Exam_21_12_22\obj\Debug\net7.0\Exam_21_12_22.csproj.AssemblyReference.cache
+D:\Chau_folder\C#\Git\Exam\Exam_21_12_22\obj\Debug\net7.0\Exam_21_12_22.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chau_folder\C#\Git\Exam\Exam_21_12_22\obj\Debug\net7.0\Exam_21_12_22.AssemblyInfoInputs.cache
+D:\Chau_folder\C#\Git\Exam\Exam_21_12_22\obj\Debug\net7.0\Exam_21_12_22.AssemblyInfo.cs
+D:\Chau_folder\C#\Git\Exam\Exam_21_12_22\obj\Debug\net7.0\Exam_21_12_22.csproj.CoreCompileInputs.cache
+D:\Chau_folder\C#\Git\Exam\Exam_21_12_22\obj\Debug\net7.0\Exam_21_12_22.dll
+D:\Chau_folder\C#\Git\Exam\Exam_21_12_22\obj\Debug\net7.0\refint\Exam_21_12_22.dll
+D:\Chau_folder\C#\Git\Exam\Exam_21_12_22\obj\Debug\net7.0\Exam_21_12_22.pdb
+D:\Chau_folder\C#\Git\Exam\Exam_21_12_22\obj\Debug\net7.0\Exam_21_12_22.genruntimeconfig.cache
+D:\Chau_folder\C#\Git\Exam\Exam_21_12_22\obj\Debug\net7.0\ref\Exam_21_12_22.dll

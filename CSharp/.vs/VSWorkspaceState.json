@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ForEachAndWhile",
+    "\\GitHub",
+    "\\Project_Test_Menu",
+    "\\RefOut",
+    "\\SwitchCase"
   ],
-  "SelectedNode": "\\CSharp.sln",
+  "SelectedNode": "\\SwitchCase\\Lib.cs",
   "PreviewInSolutionExplorer": false
 }

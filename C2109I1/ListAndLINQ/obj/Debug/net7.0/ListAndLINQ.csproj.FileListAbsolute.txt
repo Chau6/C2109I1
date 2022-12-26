@@ -1,0 +1,15 @@
+D:\Chau_folder\C#\Git\C2109I1\ListAndLINQ\bin\Debug\net7.0\ListAndLINQ.exe
+D:\Chau_folder\C#\Git\C2109I1\ListAndLINQ\bin\Debug\net7.0\ListAndLINQ.deps.json
+D:\Chau_folder\C#\Git\C2109I1\ListAndLINQ\bin\Debug\net7.0\ListAndLINQ.runtimeconfig.json
+D:\Chau_folder\C#\Git\C2109I1\ListAndLINQ\bin\Debug\net7.0\ListAndLINQ.dll
+D:\Chau_folder\C#\Git\C2109I1\ListAndLINQ\bin\Debug\net7.0\ListAndLINQ.pdb
+D:\Chau_folder\C#\Git\C2109I1\ListAndLINQ\obj\Debug\net7.0\ListAndLINQ.csproj.AssemblyReference.cache
+D:\Chau_folder\C#\Git\C2109I1\ListAndLINQ\obj\Debug\net7.0\ListAndLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chau_folder\C#\Git\C2109I1\ListAndLINQ\obj\Debug\net7.0\ListAndLINQ.AssemblyInfoInputs.cache
+D:\Chau_folder\C#\Git\C2109I1\ListAndLINQ\obj\Debug\net7.0\ListAndLINQ.AssemblyInfo.cs
+D:\Chau_folder\C#\Git\C2109I1\ListAndLINQ\obj\Debug\net7.0\ListAndLINQ.csproj.CoreCompileInputs.cache
+D:\Chau_folder\C#\Git\C2109I1\ListAndLINQ\obj\Debug\net7.0\ListAndLINQ.dll
+D:\Chau_folder\C#\Git\C2109I1\ListAndLINQ\obj\Debug\net7.0\refint\ListAndLINQ.dll
+D:\Chau_folder\C#\Git\C2109I1\ListAndLINQ\obj\Debug\net7.0\ListAndLINQ.pdb
+D:\Chau_folder\C#\Git\C2109I1\ListAndLINQ\obj\Debug\net7.0\ListAndLINQ.genruntimeconfig.cache
+D:\Chau_folder\C#\Git\C2109I1\ListAndLINQ\obj\Debug\net7.0\ref\ListAndLINQ.dll

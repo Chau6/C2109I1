@@ -1,0 +1,15 @@
+D:\Chau_folder\C#\Git\C2109I1\Delegate\bin\Debug\net7.0\Delegate.exe
+D:\Chau_folder\C#\Git\C2109I1\Delegate\bin\Debug\net7.0\Delegate.deps.json
+D:\Chau_folder\C#\Git\C2109I1\Delegate\bin\Debug\net7.0\Delegate.runtimeconfig.json
+D:\Chau_folder\C#\Git\C2109I1\Delegate\bin\Debug\net7.0\Delegate.dll
+D:\Chau_folder\C#\Git\C2109I1\Delegate\bin\Debug\net7.0\Delegate.pdb
+D:\Chau_folder\C#\Git\C2109I1\Delegate\obj\Debug\net7.0\Delegate.csproj.AssemblyReference.cache
+D:\Chau_folder\C#\Git\C2109I1\Delegate\obj\Debug\net7.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chau_folder\C#\Git\C2109I1\Delegate\obj\Debug\net7.0\Delegate.AssemblyInfoInputs.cache
+D:\Chau_folder\C#\Git\C2109I1\Delegate\obj\Debug\net7.0\Delegate.AssemblyInfo.cs
+D:\Chau_folder\C#\Git\C2109I1\Delegate\obj\Debug\net7.0\Delegate.csproj.CoreCompileInputs.cache
+D:\Chau_folder\C#\Git\C2109I1\Delegate\obj\Debug\net7.0\Delegate.dll
+D:\Chau_folder\C#\Git\C2109I1\Delegate\obj\Debug\net7.0\refint\Delegate.dll
+D:\Chau_folder\C#\Git\C2109I1\Delegate\obj\Debug\net7.0\Delegate.pdb
+D:\Chau_folder\C#\Git\C2109I1\Delegate\obj\Debug\net7.0\Delegate.genruntimeconfig.cache
+D:\Chau_folder\C#\Git\C2109I1\Delegate\obj\Debug\net7.0\ref\Delegate.dll
