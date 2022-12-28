@@ -1,8 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Exam"
+    "\\Exam",
+    "\\Exam\\ExeciseOop\\DAL",
+    "\\Exam\\ExeciseOop\\Entity",
+    "\\Exam\\ExeciseOop\\ExtensionMethod",
+    "\\Exam\\ExeciseOop\\Helpers",
+    "\\Exam\\ExeciseOop\\obj",
+    "\\Exam\\ExeciseOop\\Service"
   ],
-  "SelectedNode": "\\Exam\\Exam.sln",
+  "SelectedNode": "\\Exam\\ExeciseOop",
   "PreviewInSolutionExplorer": false
 }
