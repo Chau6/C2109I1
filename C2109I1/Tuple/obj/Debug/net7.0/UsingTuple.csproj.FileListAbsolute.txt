@@ -1,0 +1,15 @@
+D:\Chau_folder\C#\Git\C2109I1\Tuple\bin\Debug\net7.0\UsingTuple.exe
+D:\Chau_folder\C#\Git\C2109I1\Tuple\bin\Debug\net7.0\UsingTuple.deps.json
+D:\Chau_folder\C#\Git\C2109I1\Tuple\bin\Debug\net7.0\UsingTuple.runtimeconfig.json
+D:\Chau_folder\C#\Git\C2109I1\Tuple\bin\Debug\net7.0\UsingTuple.dll
+D:\Chau_folder\C#\Git\C2109I1\Tuple\bin\Debug\net7.0\UsingTuple.pdb
+D:\Chau_folder\C#\Git\C2109I1\Tuple\obj\Debug\net7.0\UsingTuple.csproj.AssemblyReference.cache
+D:\Chau_folder\C#\Git\C2109I1\Tuple\obj\Debug\net7.0\UsingTuple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chau_folder\C#\Git\C2109I1\Tuple\obj\Debug\net7.0\UsingTuple.AssemblyInfoInputs.cache
+D:\Chau_folder\C#\Git\C2109I1\Tuple\obj\Debug\net7.0\UsingTuple.AssemblyInfo.cs
+D:\Chau_folder\C#\Git\C2109I1\Tuple\obj\Debug\net7.0\UsingTuple.csproj.CoreCompileInputs.cache
+D:\Chau_folder\C#\Git\C2109I1\Tuple\obj\Debug\net7.0\UsingTuple.dll
+D:\Chau_folder\C#\Git\C2109I1\Tuple\obj\Debug\net7.0\refint\UsingTuple.dll
+D:\Chau_folder\C#\Git\C2109I1\Tuple\obj\Debug\net7.0\UsingTuple.pdb
+D:\Chau_folder\C#\Git\C2109I1\Tuple\obj\Debug\net7.0\UsingTuple.genruntimeconfig.cache
+D:\Chau_folder\C#\Git\C2109I1\Tuple\obj\Debug\net7.0\ref\UsingTuple.dll

@@ -1,0 +1,15 @@
+D:\Chau_folder\C#\Git\Exam\Project_Template_Without_Database\bin\Debug\net7.0\Project_Template_Without_Database.exe
+D:\Chau_folder\C#\Git\Exam\Project_Template_Without_Database\bin\Debug\net7.0\Project_Template_Without_Database.deps.json
+D:\Chau_folder\C#\Git\Exam\Project_Template_Without_Database\bin\Debug\net7.0\Project_Template_Without_Database.runtimeconfig.json
+D:\Chau_folder\C#\Git\Exam\Project_Template_Without_Database\bin\Debug\net7.0\Project_Template_Without_Database.dll
+D:\Chau_folder\C#\Git\Exam\Project_Template_Without_Database\bin\Debug\net7.0\Project_Template_Without_Database.pdb
+D:\Chau_folder\C#\Git\Exam\Project_Template_Without_Database\obj\Debug\net7.0\Project_Template_Without_Database.csproj.AssemblyReference.cache
+D:\Chau_folder\C#\Git\Exam\Project_Template_Without_Database\obj\Debug\net7.0\Project_Template_Without_Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chau_folder\C#\Git\Exam\Project_Template_Without_Database\obj\Debug\net7.0\Project_Template_Without_Database.AssemblyInfoInputs.cache
+D:\Chau_folder\C#\Git\Exam\Project_Template_Without_Database\obj\Debug\net7.0\Project_Template_Without_Database.AssemblyInfo.cs
+D:\Chau_folder\C#\Git\Exam\Project_Template_Without_Database\obj\Debug\net7.0\Project_Template_Without_Database.csproj.CoreCompileInputs.cache
+D:\Chau_folder\C#\Git\Exam\Project_Template_Without_Database\obj\Debug\net7.0\Project_Template_Without_Database.dll
+D:\Chau_folder\C#\Git\Exam\Project_Template_Without_Database\obj\Debug\net7.0\refint\Project_Template_Without_Database.dll
+D:\Chau_folder\C#\Git\Exam\Project_Template_Without_Database\obj\Debug\net7.0\Project_Template_Without_Database.pdb
+D:\Chau_folder\C#\Git\Exam\Project_Template_Without_Database\obj\Debug\net7.0\Project_Template_Without_Database.genruntimeconfig.cache
+D:\Chau_folder\C#\Git\Exam\Project_Template_Without_Database\obj\Debug\net7.0\ref\Project_Template_Without_Database.dll

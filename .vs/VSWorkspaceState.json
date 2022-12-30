@@ -1,14 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\C2109I1",
+    "\\C2109I1\\NetCoreWF",
     "\\Exam",
-    "\\Exam\\ExeciseOop\\DAL",
-    "\\Exam\\ExeciseOop\\Entity",
-    "\\Exam\\ExeciseOop\\ExtensionMethod",
-    "\\Exam\\ExeciseOop\\Helpers",
-    "\\Exam\\ExeciseOop\\obj",
-    "\\Exam\\ExeciseOop\\Service"
+    "\\Exam\\ExeciseOop"
   ],
-  "SelectedNode": "\\Exam\\ExeciseOop",
+  "SelectedNode": "\\C2109I1\\NetCoreWF\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }

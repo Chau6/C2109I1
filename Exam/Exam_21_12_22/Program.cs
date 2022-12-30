@@ -1,5 +1,4 @@
-﻿
-
+﻿//Format code ctrl + k + d
 Console.InputEncoding = Encoding.Unicode;
 Console.OutputEncoding = Encoding.Unicode;
 
@@ -17,7 +16,6 @@ while (flag)
     }
     else
     {
-
         switch (result)
         {
             case 1:

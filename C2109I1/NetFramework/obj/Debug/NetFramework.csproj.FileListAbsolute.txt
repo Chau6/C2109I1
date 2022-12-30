@@ -1,0 +1,11 @@
+D:\Chau_folder\C#\Git\C2109I1\NetFramework\bin\Debug\NetFramework.exe.config
+D:\Chau_folder\C#\Git\C2109I1\NetFramework\bin\Debug\NetFramework.exe
+D:\Chau_folder\C#\Git\C2109I1\NetFramework\bin\Debug\NetFramework.pdb
+D:\Chau_folder\C#\Git\C2109I1\NetFramework\obj\Debug\NetFramework.csproj.AssemblyReference.cache
+D:\Chau_folder\C#\Git\C2109I1\NetFramework\obj\Debug\NetFramework.csproj.SuggestedBindingRedirects.cache
+D:\Chau_folder\C#\Git\C2109I1\NetFramework\obj\Debug\NetFramework.Form1.resources
+D:\Chau_folder\C#\Git\C2109I1\NetFramework\obj\Debug\NetFramework.Properties.Resources.resources
+D:\Chau_folder\C#\Git\C2109I1\NetFramework\obj\Debug\NetFramework.csproj.GenerateResource.cache
+D:\Chau_folder\C#\Git\C2109I1\NetFramework\obj\Debug\NetFramework.csproj.CoreCompileInputs.cache
+D:\Chau_folder\C#\Git\C2109I1\NetFramework\obj\Debug\NetFramework.exe
+D:\Chau_folder\C#\Git\C2109I1\NetFramework\obj\Debug\NetFramework.pdb

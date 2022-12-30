@@ -1,0 +1,15 @@
+D:\Chau_folder\C#\Git\C2109I1\FunctionAndAction\bin\Debug\net7.0\FunctionAndAction.exe
+D:\Chau_folder\C#\Git\C2109I1\FunctionAndAction\bin\Debug\net7.0\FunctionAndAction.deps.json
+D:\Chau_folder\C#\Git\C2109I1\FunctionAndAction\bin\Debug\net7.0\FunctionAndAction.runtimeconfig.json
+D:\Chau_folder\C#\Git\C2109I1\FunctionAndAction\bin\Debug\net7.0\FunctionAndAction.dll
+D:\Chau_folder\C#\Git\C2109I1\FunctionAndAction\bin\Debug\net7.0\FunctionAndAction.pdb
+D:\Chau_folder\C#\Git\C2109I1\FunctionAndAction\obj\Debug\net7.0\FunctionAndAction.csproj.AssemblyReference.cache
+D:\Chau_folder\C#\Git\C2109I1\FunctionAndAction\obj\Debug\net7.0\FunctionAndAction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chau_folder\C#\Git\C2109I1\FunctionAndAction\obj\Debug\net7.0\FunctionAndAction.AssemblyInfoInputs.cache
+D:\Chau_folder\C#\Git\C2109I1\FunctionAndAction\obj\Debug\net7.0\FunctionAndAction.AssemblyInfo.cs
+D:\Chau_folder\C#\Git\C2109I1\FunctionAndAction\obj\Debug\net7.0\FunctionAndAction.csproj.CoreCompileInputs.cache
+D:\Chau_folder\C#\Git\C2109I1\FunctionAndAction\obj\Debug\net7.0\FunctionAndAction.dll
+D:\Chau_folder\C#\Git\C2109I1\FunctionAndAction\obj\Debug\net7.0\refint\FunctionAndAction.dll
+D:\Chau_folder\C#\Git\C2109I1\FunctionAndAction\obj\Debug\net7.0\FunctionAndAction.pdb
+D:\Chau_folder\C#\Git\C2109I1\FunctionAndAction\obj\Debug\net7.0\FunctionAndAction.genruntimeconfig.cache
+D:\Chau_folder\C#\Git\C2109I1\FunctionAndAction\obj\Debug\net7.0\ref\FunctionAndAction.dll

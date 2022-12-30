@@ -1,0 +1,17 @@
+D:\Chau_folder\C#\Git\C2109I1\NetCoreWF\bin\Debug\net7.0-windows\NetCoreWF.exe
+D:\Chau_folder\C#\Git\C2109I1\NetCoreWF\bin\Debug\net7.0-windows\NetCoreWF.deps.json
+D:\Chau_folder\C#\Git\C2109I1\NetCoreWF\bin\Debug\net7.0-windows\NetCoreWF.runtimeconfig.json
+D:\Chau_folder\C#\Git\C2109I1\NetCoreWF\bin\Debug\net7.0-windows\NetCoreWF.dll
+D:\Chau_folder\C#\Git\C2109I1\NetCoreWF\bin\Debug\net7.0-windows\NetCoreWF.pdb
+D:\Chau_folder\C#\Git\C2109I1\NetCoreWF\obj\Debug\net7.0-windows\NetCoreWF.csproj.AssemblyReference.cache
+D:\Chau_folder\C#\Git\C2109I1\NetCoreWF\obj\Debug\net7.0-windows\NetCoreWF.Form1.resources
+D:\Chau_folder\C#\Git\C2109I1\NetCoreWF\obj\Debug\net7.0-windows\NetCoreWF.csproj.GenerateResource.cache
+D:\Chau_folder\C#\Git\C2109I1\NetCoreWF\obj\Debug\net7.0-windows\NetCoreWF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chau_folder\C#\Git\C2109I1\NetCoreWF\obj\Debug\net7.0-windows\NetCoreWF.AssemblyInfoInputs.cache
+D:\Chau_folder\C#\Git\C2109I1\NetCoreWF\obj\Debug\net7.0-windows\NetCoreWF.AssemblyInfo.cs
+D:\Chau_folder\C#\Git\C2109I1\NetCoreWF\obj\Debug\net7.0-windows\NetCoreWF.csproj.CoreCompileInputs.cache
+D:\Chau_folder\C#\Git\C2109I1\NetCoreWF\obj\Debug\net7.0-windows\NetCoreWF.dll
+D:\Chau_folder\C#\Git\C2109I1\NetCoreWF\obj\Debug\net7.0-windows\refint\NetCoreWF.dll
+D:\Chau_folder\C#\Git\C2109I1\NetCoreWF\obj\Debug\net7.0-windows\NetCoreWF.pdb
+D:\Chau_folder\C#\Git\C2109I1\NetCoreWF\obj\Debug\net7.0-windows\NetCoreWF.genruntimeconfig.cache
+D:\Chau_folder\C#\Git\C2109I1\NetCoreWF\obj\Debug\net7.0-windows\ref\NetCoreWF.dll
