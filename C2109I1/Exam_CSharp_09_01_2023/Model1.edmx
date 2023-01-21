@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="Exam_CSharpModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="tblCourse">
+          <Key>
+            <PropertyRef Name="couId" />
+          </Key>
+          <Property Name="couId" Type="tinyint" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="couName" Type="nvarchar" MaxLength="100" />
+          <Property Name="couSemester" Type="tinyint" />
+        </EntityType>
+        <EntityType Name="tblExam">
+          <Key>
+            <PropertyRef Name="examId" />
+          </Key>
+          <Property Name="examId" Type="tinyint" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="examName" Type="nvarchar" MaxLength="100" />
+          <Property Name="examMark" Type="float" />
+          <Property Name="examDate" Type="date" />
+          <Property Name="stuId" Type="tinyint" />
+          <Property Name="couId" Type="tinyint" />
+          <Property Name="createAt" Type="datetime" />
+          <Property Name="updateAt" Type="datetime" />
+        </EntityType>
+        <EntityType Name="tblStudent">
+          <Key>
+            <PropertyRef Name="stuId" />
+          </Key>
+          <Property Name="stuId" Type="tinyint" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="stuUsername" Type="varchar" MaxLength="50" />
+          <Property Name="stuPass" Type="varchar" MaxLength="50" />
+          <Property Name="stuName" Type="nvarchar" MaxLength="50" />
+          <Property Name="stuDob" Type="date" />
+          <Property Name="stuGender" Type="bit" />
+          <Property Name="stuAddress" Type="nvarchar" MaxLength="1000" />
+          <Property Name="stuPhone" Type="varchar" MaxLength="15" />
+          <Property Name="stuEmail" Type="varchar" MaxLength="200" />
+          <Property Name="stuLevel" Type="tinyint" />
+          <Property Name="deptId" Type="tinyint" />
+          <Property Name="createAt" Type="datetime" />
+          <Property Name="updateAt" Type="datetime" />
+        </EntityType>
+        <EntityContainer Name="Exam_CSharpModelStoreContainer">
+          <EntitySet Name="tblCourse" EntityType="Self.tblCourse" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tblExam" EntityType="Self.tblExam" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tblStudent" EntityType="Self.tblStudent" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="Exam_CSharpModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="tblCourse">
+          <Key>
+            <PropertyRef Name="couId" />
+          </Key>
+          <Property Name="couId" Type="Byte" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="couName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="couSemester" Type="Byte" />
+        </EntityType>
+        <EntityType Name="tblExam">
+          <Key>
+            <PropertyRef Name="examId" />
+          </Key>
+          <Property Name="examId" Type="Byte" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="examName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="examMark" Type="Double" />
+          <Property Name="examDate" Type="DateTime" Precision="0" />
+          <Property Name="stuId" Type="Byte" />
+          <Property Name="couId" Type="Byte" />
+          <Property Name="createAt" Type="DateTime" Precision="3" />
+          <Property Name="updateAt" Type="DateTime" Precision="3" />
+        </EntityType>
+        <EntityType Name="tblStudent">
+          <Key>
+            <PropertyRef Name="stuId" />
+          </Key>
+          <Property Name="stuId" Type="Byte" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="stuUsername" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="stuPass" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="stuName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="stuDob" Type="DateTime" Precision="0" />
+          <Property Name="stuGender" Type="Boolean" />
+          <Property Name="stuAddress" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" />
+          <Property Name="stuPhone" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+          <Property Name="stuEmail" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+          <Property Name="stuLevel" Type="Byte" />
+          <Property Name="deptId" Type="Byte" />
+          <Property Name="createAt" Type="DateTime" Precision="3" />
+          <Property Name="updateAt" Type="DateTime" Precision="3" />
+        </EntityType>
+        <EntityContainer Name="Exam_CSharpEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="tblCourses" EntityType="Self.tblCourse" />
+          <EntitySet Name="tblExams" EntityType="Self.tblExam" />
+          <EntitySet Name="tblStudents" EntityType="Self.tblStudent" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="Exam_CSharpModelStoreContainer" CdmEntityContainer="Exam_CSharpEntities">
+          <EntitySetMapping Name="tblCourses">
+            <EntityTypeMapping TypeName="Exam_CSharpModel.tblCourse">
+              <MappingFragment StoreEntitySet="tblCourse">
+                <ScalarProperty Name="couId" ColumnName="couId" />
+                <ScalarProperty Name="couName" ColumnName="couName" />
+                <ScalarProperty Name="couSemester" ColumnName="couSemester" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tblExams">
+            <EntityTypeMapping TypeName="Exam_CSharpModel.tblExam">
+              <MappingFragment StoreEntitySet="tblExam">
+                <ScalarProperty Name="examId" ColumnName="examId" />
+                <ScalarProperty Name="examName" ColumnName="examName" />
+                <ScalarProperty Name="examMark" ColumnName="examMark" />
+                <ScalarProperty Name="examDate" ColumnName="examDate" />
+                <ScalarProperty Name="stuId" ColumnName="stuId" />
+                <ScalarProperty Name="couId" ColumnName="couId" />
+                <ScalarProperty Name="createAt" ColumnName="createAt" />
+                <ScalarProperty Name="updateAt" ColumnName="updateAt" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tblStudents">
+            <EntityTypeMapping TypeName="Exam_CSharpModel.tblStudent">
+              <MappingFragment StoreEntitySet="tblStudent">
+                <ScalarProperty Name="stuId" ColumnName="stuId" />
+                <ScalarProperty Name="stuUsername" ColumnName="stuUsername" />
+                <ScalarProperty Name="stuPass" ColumnName="stuPass" />
+                <ScalarProperty Name="stuName" ColumnName="stuName" />
+                <ScalarProperty Name="stuDob" ColumnName="stuDob" />
+                <ScalarProperty Name="stuGender" ColumnName="stuGender" />
+                <ScalarProperty Name="stuAddress" ColumnName="stuAddress" />
+                <ScalarProperty Name="stuPhone" ColumnName="stuPhone" />
+                <ScalarProperty Name="stuEmail" ColumnName="stuEmail" />
+                <ScalarProperty Name="stuLevel" ColumnName="stuLevel" />
+                <ScalarProperty Name="deptId" ColumnName="deptId" />
+                <ScalarProperty Name="createAt" ColumnName="createAt" />
+                <ScalarProperty Name="updateAt" ColumnName="updateAt" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

@@ -1,0 +1,16 @@
+D:\Chau_folder\C#\Git\C2109I1\WindowsFormsApp_Net_Framework\bin\Debug\WindowsFormsApp_Net_Framework.exe.config
+D:\Chau_folder\C#\Git\C2109I1\WindowsFormsApp_Net_Framework\bin\Debug\WindowsFormsApp_Net_Framework.exe
+D:\Chau_folder\C#\Git\C2109I1\WindowsFormsApp_Net_Framework\bin\Debug\WindowsFormsApp_Net_Framework.pdb
+D:\Chau_folder\C#\Git\C2109I1\WindowsFormsApp_Net_Framework\bin\Debug\EntityFramework.dll
+D:\Chau_folder\C#\Git\C2109I1\WindowsFormsApp_Net_Framework\bin\Debug\EntityFramework.SqlServer.dll
+D:\Chau_folder\C#\Git\C2109I1\WindowsFormsApp_Net_Framework\bin\Debug\EntityFramework.xml
+D:\Chau_folder\C#\Git\C2109I1\WindowsFormsApp_Net_Framework\bin\Debug\EntityFramework.SqlServer.xml
+D:\Chau_folder\C#\Git\C2109I1\WindowsFormsApp_Net_Framework\obj\Debug\WindowsFormsApp_Net_Framework.csproj.AssemblyReference.cache
+D:\Chau_folder\C#\Git\C2109I1\WindowsFormsApp_Net_Framework\obj\Debug\WindowsFormsApp_Net_Framework.csproj.SuggestedBindingRedirects.cache
+D:\Chau_folder\C#\Git\C2109I1\WindowsFormsApp_Net_Framework\obj\Debug\WindowsFormsApp_Net_Framework.Properties.Resources.resources
+D:\Chau_folder\C#\Git\C2109I1\WindowsFormsApp_Net_Framework\obj\Debug\WindowsFormsApp_Net_Framework.csproj.GenerateResource.cache
+D:\Chau_folder\C#\Git\C2109I1\WindowsFormsApp_Net_Framework\obj\Debug\WindowsFormsApp_Net_Framework.csproj.CoreCompileInputs.cache
+D:\Chau_folder\C#\Git\C2109I1\WindowsFormsApp_Net_Framework\obj\Debug\WindowsFormsApp_Net_Framework.csproj.CopyComplete
+D:\Chau_folder\C#\Git\C2109I1\WindowsFormsApp_Net_Framework\obj\Debug\WindowsFormsApp_Net_Framework.exe
+D:\Chau_folder\C#\Git\C2109I1\WindowsFormsApp_Net_Framework\obj\Debug\WindowsFormsApp_Net_Framework.pdb
+D:\Chau_folder\C#\Git\C2109I1\WindowsFormsApp_Net_Framework\obj\Debug\WindowsFormsApp_Net_Framework.Form1.resources

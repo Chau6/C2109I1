@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Exam_CSharpModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tblCourse">
+    <Key>
+      <PropertyRef Name="couId" />
+    </Key>
+    <Property Name="couId" Type="Byte" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="couName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="couSemester" Type="Byte" />
+  </EntityType>
+  <EntityType Name="tblExam">
+    <Key>
+      <PropertyRef Name="examId" />
+    </Key>
+    <Property Name="examId" Type="Byte" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="examName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="examMark" Type="Double" />
+    <Property Name="examDate" Type="DateTime" Precision="0" />
+    <Property Name="stuId" Type="Byte" />
+    <Property Name="couId" Type="Byte" />
+    <Property Name="createAt" Type="DateTime" Precision="3" />
+    <Property Name="updateAt" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="tblStudent">
+    <Key>
+      <PropertyRef Name="stuId" />
+    </Key>
+    <Property Name="stuId" Type="Byte" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="stuUsername" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="stuPass" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="stuName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="stuDob" Type="DateTime" Precision="0" />
+    <Property Name="stuGender" Type="Boolean" />
+    <Property Name="stuAddress" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" />
+    <Property Name="stuPhone" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="stuEmail" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Name="stuLevel" Type="Byte" />
+    <Property Name="deptId" Type="Byte" />
+    <Property Name="createAt" Type="DateTime" Precision="3" />
+    <Property Name="updateAt" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityContainer Name="Exam_CSharpEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tblCourses" EntityType="Self.tblCourse" />
+    <EntitySet Name="tblExams" EntityType="Self.tblExam" />
+    <EntitySet Name="tblStudents" EntityType="Self.tblStudent" />
+  </EntityContainer>
+</Schema>

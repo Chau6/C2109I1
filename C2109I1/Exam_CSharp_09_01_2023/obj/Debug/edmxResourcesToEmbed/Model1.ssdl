@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Exam_CSharpModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tblCourse">
+    <Key>
+      <PropertyRef Name="couId" />
+    </Key>
+    <Property Name="couId" Type="tinyint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="couName" Type="nvarchar" MaxLength="100" />
+    <Property Name="couSemester" Type="tinyint" />
+  </EntityType>
+  <EntityType Name="tblExam">
+    <Key>
+      <PropertyRef Name="examId" />
+    </Key>
+    <Property Name="examId" Type="tinyint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="examName" Type="nvarchar" MaxLength="100" />
+    <Property Name="examMark" Type="float" />
+    <Property Name="examDate" Type="date" />
+    <Property Name="stuId" Type="tinyint" />
+    <Property Name="couId" Type="tinyint" />
+    <Property Name="createAt" Type="datetime" />
+    <Property Name="updateAt" Type="datetime" />
+  </EntityType>
+  <EntityType Name="tblStudent">
+    <Key>
+      <PropertyRef Name="stuId" />
+    </Key>
+    <Property Name="stuId" Type="tinyint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="stuUsername" Type="varchar" MaxLength="50" />
+    <Property Name="stuPass" Type="varchar" MaxLength="50" />
+    <Property Name="stuName" Type="nvarchar" MaxLength="50" />
+    <Property Name="stuDob" Type="date" />
+    <Property Name="stuGender" Type="bit" />
+    <Property Name="stuAddress" Type="nvarchar" MaxLength="1000" />
+    <Property Name="stuPhone" Type="varchar" MaxLength="15" />
+    <Property Name="stuEmail" Type="varchar" MaxLength="200" />
+    <Property Name="stuLevel" Type="tinyint" />
+    <Property Name="deptId" Type="tinyint" />
+    <Property Name="createAt" Type="datetime" />
+    <Property Name="updateAt" Type="datetime" />
+  </EntityType>
+  <EntityContainer Name="Exam_CSharpModelStoreContainer">
+    <EntitySet Name="tblCourse" EntityType="Self.tblCourse" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblExam" EntityType="Self.tblExam" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblStudent" EntityType="Self.tblStudent" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

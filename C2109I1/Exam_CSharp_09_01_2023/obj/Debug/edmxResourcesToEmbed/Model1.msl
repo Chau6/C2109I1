@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Exam_CSharpModelStoreContainer" CdmEntityContainer="Exam_CSharpEntities">
+    <EntitySetMapping Name="tblCourses">
+      <EntityTypeMapping TypeName="Exam_CSharpModel.tblCourse">
+        <MappingFragment StoreEntitySet="tblCourse">
+          <ScalarProperty Name="couId" ColumnName="couId" />
+          <ScalarProperty Name="couName" ColumnName="couName" />
+          <ScalarProperty Name="couSemester" ColumnName="couSemester" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblExams">
+      <EntityTypeMapping TypeName="Exam_CSharpModel.tblExam">
+        <MappingFragment StoreEntitySet="tblExam">
+          <ScalarProperty Name="examId" ColumnName="examId" />
+          <ScalarProperty Name="examName" ColumnName="examName" />
+          <ScalarProperty Name="examMark" ColumnName="examMark" />
+          <ScalarProperty Name="examDate" ColumnName="examDate" />
+          <ScalarProperty Name="stuId" ColumnName="stuId" />
+          <ScalarProperty Name="couId" ColumnName="couId" />
+          <ScalarProperty Name="createAt" ColumnName="createAt" />
+          <ScalarProperty Name="updateAt" ColumnName="updateAt" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblStudents">
+      <EntityTypeMapping TypeName="Exam_CSharpModel.tblStudent">
+        <MappingFragment StoreEntitySet="tblStudent">
+          <ScalarProperty Name="stuId" ColumnName="stuId" />
+          <ScalarProperty Name="stuUsername" ColumnName="stuUsername" />
+          <ScalarProperty Name="stuPass" ColumnName="stuPass" />
+          <ScalarProperty Name="stuName" ColumnName="stuName" />
+          <ScalarProperty Name="stuDob" ColumnName="stuDob" />
+          <ScalarProperty Name="stuGender" ColumnName="stuGender" />
+          <ScalarProperty Name="stuAddress" ColumnName="stuAddress" />
+          <ScalarProperty Name="stuPhone" ColumnName="stuPhone" />
+          <ScalarProperty Name="stuEmail" ColumnName="stuEmail" />
+          <ScalarProperty Name="stuLevel" ColumnName="stuLevel" />
+          <ScalarProperty Name="deptId" ColumnName="deptId" />
+          <ScalarProperty Name="createAt" ColumnName="createAt" />
+          <ScalarProperty Name="updateAt" ColumnName="updateAt" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
