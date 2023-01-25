@@ -21,6 +21,7 @@ namespace Exam_CSharp_09_01_2023
             //Application.Run(new Admin());
             //Application.Run(new Teacher());
             //Application.Run(new Student());
+            //Application.Run(new Show9());
         }
     }
 }

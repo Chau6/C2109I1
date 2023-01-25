@@ -70,8 +70,6 @@ namespace Exam_CSharp_09_01_2023
                 }
                 else{
                     MessageBox.Show("Tài khoản hoặc mật khẩu không đúng !!!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    txtPassword.Text = "";
-                    txtUsername.Text = "";
                     txtUsername.Focus(); //đưa con trỏ chuột lại vị trí này
                 }
                 

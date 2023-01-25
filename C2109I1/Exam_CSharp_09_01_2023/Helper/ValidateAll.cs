@@ -28,5 +28,8 @@ namespace Exam_CSharp_09_01_2023
         public static string EMAIL = @"^(?=.{1,64}@)[A-Za-z0-9_-]+(\.[A-Za-z0-9_-]+)*@[^-][A-Za-z0-9-]+(\.[A-Za-z0-9-]+)*(\.[A-Za-z]{2,})$";
         public static string PHONE = @"^(84|0[3|5|7|8|9])+([0-9]{8,9})\b$";
         public static string NUM = @"^([1-3]\s*){1}$";
+        public static string NUMBER = @"^([0-9]\s*)$";
+        public static string POINT = @"^([0-9]|10)$";
+        public static string CHAR = @"^([A-Za-zÀÁÂÃÈÉÊÌÍÒÓÔÕÙÚĂĐĨŨƠàáâãèéêìíòóôõùúăđĩũơƯĂẠẢẤẦẨẪẬẮẰẲẴẶẸẺẼỀỀỂẾưăạảấầẩẫậắằẳẵặẹẻẽềềểếỄỆỈỊỌỎỐỒỔỖỘỚỜỞỠỢỤỦỨỪễệỉịọỏốồổỗộớờởỡợụủứừỬỮỰỲỴÝỶỸửữựỳỵỷỹ]\s*){1,}$";
     }
 }

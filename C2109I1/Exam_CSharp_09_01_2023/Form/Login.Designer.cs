@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Login));
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.txtUsername = new System.Windows.Forms.TextBox();
@@ -72,21 +73,27 @@
             // 
             // btnSignIn
             // 
+            this.btnSignIn.Image = ((System.Drawing.Image)(resources.GetObject("btnSignIn.Image")));
+            this.btnSignIn.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnSignIn.Location = new System.Drawing.Point(12, 86);
             this.btnSignIn.Name = "btnSignIn";
-            this.btnSignIn.Size = new System.Drawing.Size(75, 23);
+            this.btnSignIn.Size = new System.Drawing.Size(102, 30);
             this.btnSignIn.TabIndex = 5;
             this.btnSignIn.Text = "Đăng nhập";
+            this.btnSignIn.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnSignIn.UseVisualStyleBackColor = true;
             this.btnSignIn.Click += new System.EventHandler(this.btnSignIn_Click);
             // 
             // btnExit
             // 
-            this.btnExit.Location = new System.Drawing.Point(112, 86);
+            this.btnExit.Image = ((System.Drawing.Image)(resources.GetObject("btnExit.Image")));
+            this.btnExit.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnExit.Location = new System.Drawing.Point(120, 86);
             this.btnExit.Name = "btnExit";
-            this.btnExit.Size = new System.Drawing.Size(75, 23);
+            this.btnExit.Size = new System.Drawing.Size(67, 30);
             this.btnExit.TabIndex = 6;
             this.btnExit.Text = "Thoát";
+            this.btnExit.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnExit.UseVisualStyleBackColor = true;
             this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 

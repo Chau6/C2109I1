@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ChangePass));
             this.chkShowPassword = new System.Windows.Forms.CheckBox();
             this.btnReturn = new System.Windows.Forms.Button();
             this.btnSub = new System.Windows.Forms.Button();
@@ -52,21 +53,27 @@
             // 
             // btnReturn
             // 
-            this.btnReturn.Location = new System.Drawing.Point(112, 122);
+            this.btnReturn.Image = ((System.Drawing.Image)(resources.GetObject("btnReturn.Image")));
+            this.btnReturn.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnReturn.Location = new System.Drawing.Point(123, 122);
             this.btnReturn.Name = "btnReturn";
-            this.btnReturn.Size = new System.Drawing.Size(75, 23);
+            this.btnReturn.Size = new System.Drawing.Size(74, 34);
             this.btnReturn.TabIndex = 13;
             this.btnReturn.Text = "Return";
+            this.btnReturn.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnReturn.UseVisualStyleBackColor = true;
             this.btnReturn.Click += new System.EventHandler(this.btnReturn_Click);
             // 
             // btnSub
             // 
-            this.btnSub.Location = new System.Drawing.Point(12, 122);
+            this.btnSub.Image = ((System.Drawing.Image)(resources.GetObject("btnSub.Image")));
+            this.btnSub.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnSub.Location = new System.Drawing.Point(15, 122);
             this.btnSub.Name = "btnSub";
-            this.btnSub.Size = new System.Drawing.Size(75, 23);
+            this.btnSub.Size = new System.Drawing.Size(74, 34);
             this.btnSub.TabIndex = 12;
             this.btnSub.Text = "Submit";
+            this.btnSub.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnSub.UseVisualStyleBackColor = true;
             this.btnSub.Click += new System.EventHandler(this.btnSub_Click);
             // 

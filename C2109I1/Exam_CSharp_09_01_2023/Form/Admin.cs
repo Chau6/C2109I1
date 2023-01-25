@@ -142,65 +142,68 @@ namespace Exam_CSharp_09_01_2023
             }
         }
 
-        private async void toolStripButton3_Click(object sender, EventArgs e)
-        {//delete
-            try
-            {
-                con.ConnectionString = ConfigurationManager.ConnectionStrings["Exam_CSharp_09_01_2023.Properties.Settings.Exam_CSharpConnectionString"].ConnectionString;
-                con.Open();
-                SqlCommand cmd = new SqlCommand();
-                cmd.CommandText = "CheckLevelForm";
-                cmd.CommandType = CommandType.StoredProcedure;
-                cmd.Parameters.AddWithValue("@Username", Login.UserName);
-                cmd.Connection = con;
-
-                object kq = cmd.ExecuteScalar();
-                int check = Convert.ToInt32(kq);
-                if (check != Convert.ToInt32(txtLevel.Text))
-                {
-                    DialogResult dg = MessageBox.Show("Bạn có chắn chắn muốn xóa ? Bạn sẽ không thể hoàn tác !!!", "Thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-                    if (dg == DialogResult.Yes)
-                    {
-                        using (var ef = new Exam_CSharpEntities())
-                        {
-                            var id = Convert.ToInt32(txtStuId.Text);
-                            foreach (var stu1 in ef.tblStudents)
-                            {
-                                if (stu1.stuId == id)
-                                {
-                                    ef.tblStudents.Remove(stu1);
-                                }
-                            }
-                            await ef.SaveChangesAsync();
-                            bindingSource1.DataSource = await ef.tblStudents.Select(stu => new
-                            {
-                                stu.stuId,
-                                stu.stuUsername,
-                                stu.stuName,
-                                stu.stuPhone,
-                                stu.stuEmail,
-                                stu.stuLevel
-                            }).ToListAsync(); //load đa luồng <= sài thèn này
-                            MessageBox.Show("Success", "info", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                            Admin_Load(sender, e);
-                        }
-                    }
-                }
-                else
-                {
-                    MessageBox.Show("Bạn không có quyền xóa admin này !!!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                }
-
-            }
-            catch (Exception)
-            {
-                MessageBox.Show("Có lỗi khi truy vấn dữ liệu hoặc kết nối thất bại !!!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
-            finally
-            {
-                con.Close();
-            }
+        private void toolStripButton3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Em có làm chức năng xóa rồi mà thôi không sài á thầy, vì Admin không có quyền xóa học sinh mà phải do Giáo viên làm ạ","Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
+        //{//delete
+        //    try
+        //    {
+        //        con.ConnectionString = ConfigurationManager.ConnectionStrings["Exam_CSharp_09_01_2023.Properties.Settings.Exam_CSharpConnectionString"].ConnectionString;
+        //        con.Open();
+        //        SqlCommand cmd = new SqlCommand();
+        //        cmd.CommandText = "CheckLevelForm";
+        //        cmd.CommandType = CommandType.StoredProcedure;
+        //        cmd.Parameters.AddWithValue("@Username", Login.UserName);
+        //        cmd.Connection = con;
+
+        //        object kq = cmd.ExecuteScalar();
+        //        int check = Convert.ToInt32(kq);
+        //        if (check != Convert.ToInt32(txtLevel.Text))
+        //        {
+        //            DialogResult dg = MessageBox.Show("Bạn có chắn chắn muốn xóa ? Bạn sẽ không thể hoàn tác !!!", "Thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+        //            if (dg == DialogResult.Yes)
+        //            {
+        //                using (var ef = new Exam_CSharpEntities())
+        //                {
+        //                    var id = Convert.ToInt32(txtStuId.Text);
+        //                    foreach (var stu1 in ef.tblStudents)
+        //                    {
+        //                        if (stu1.stuId == id)
+        //                        {
+        //                            ef.tblStudents.Remove(stu1);
+        //                        }
+        //                    }
+        //                    await ef.SaveChangesAsync();
+        //                    bindingSource1.DataSource = await ef.tblStudents.Select(stu => new
+        //                    {
+        //                        stu.stuId,
+        //                        stu.stuUsername,
+        //                        stu.stuName,
+        //                        stu.stuPhone,
+        //                        stu.stuEmail,
+        //                        stu.stuLevel
+        //                    }).ToListAsync(); //load đa luồng <= sài thèn này
+        //                    MessageBox.Show("Success", "info", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        //                    Admin_Load(sender, e);
+        //                }
+        //            }
+        //        }
+        //        else
+        //        {
+        //            MessageBox.Show("Bạn không có quyền xóa admin này !!!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+        //        }
+
+        //    }
+        //    catch (Exception)
+        //    {
+        //        MessageBox.Show("Có lỗi khi truy vấn dữ liệu hoặc kết nối thất bại !!!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+        //    }
+        //    finally
+        //    {
+        //        con.Close();
+        //    }
+        //}
 
         private static Random random = new Random();
 
@@ -284,7 +287,14 @@ namespace Exam_CSharp_09_01_2023
             if (e.RowIndex != -1) //ngăn lỗi click trên collumn
             {
                 txtStuId.Text = table.Rows[e.RowIndex].Cells[0].Value.ToString();
-                txtUsername.Text = table.Rows[e.RowIndex].Cells[1].Value.ToString();
+                if(txtUsername.Text == "" || txtUsername.Text == "null")
+                {
+                    txtUsername.Text = "null";
+                }
+                else
+                {
+                    txtUsername.Text = table.Rows[e.RowIndex].Cells[1].Value.ToString();
+                }
                 txtStuName.Text = table.Rows[e.RowIndex].Cells[2].Value.ToString();
                 txtPhone.Text = table.Rows[e.RowIndex].Cells[3].Value.ToString();
                 txtEmail.Text = table.Rows[e.RowIndex].Cells[4].Value.ToString();

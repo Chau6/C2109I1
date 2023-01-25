@@ -95,6 +95,60 @@
       <DependentUpon>Student.cs</DependentUpon>
     </Compile>
     <Compile Include="Service\InterfaceAll.cs" />
+    <Compile Include="Form\Show1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Show1.Designer.cs">
+      <DependentUpon>Show1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Show2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Show2.Designer.cs">
+      <DependentUpon>Show2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Show3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Show3.Designer.cs">
+      <DependentUpon>Show3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Show4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Show4.Designer.cs">
+      <DependentUpon>Show4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Show5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Show5.Designer.cs">
+      <DependentUpon>Show5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Show6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Show6.Designer.cs">
+      <DependentUpon>Show6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Show7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Show7.Designer.cs">
+      <DependentUpon>Show7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Show8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Show8.Designer.cs">
+      <DependentUpon>Show8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Show9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Show9.Designer.cs">
+      <DependentUpon>Show9.cs</DependentUpon>
+    </Compile>
     <Compile Include="tblCourse.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
@@ -151,6 +205,33 @@
     <EmbeddedResource Include="Helper\ValidateAll.resx">
       <DependentUpon>ValidateAll.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Form\Show1.resx">
+      <DependentUpon>Show1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Show2.resx">
+      <DependentUpon>Show2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Show3.resx">
+      <DependentUpon>Show3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Show4.resx">
+      <DependentUpon>Show4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Show5.resx">
+      <DependentUpon>Show5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Show6.resx">
+      <DependentUpon>Show6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Show7.resx">
+      <DependentUpon>Show7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Show8.resx">
+      <DependentUpon>Show8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Show9.resx">
+      <DependentUpon>Show9.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Exam_CSharpDataSet.xsc">
       <DependentUpon>Exam_CSharpDataSet.xsd</DependentUpon>
     </None>
@@ -185,6 +266,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Database\" />
+    <Folder Include="Icon\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Model1.Context.tt">
